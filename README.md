@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on a project of a Developer Quiz made with PHP, POO, MVC.
 
-- 👨‍💻 All of my projects are available at [https://www.aurelie-gilet.website/](https://www.aurelie-gilet.website/)
+- 👨‍💻 All of my projects are available at [https://www.aurelie-gilet.fr/](https://www.aurelie-gilet.fr/)
 
 - 📫 How to reach me **aur.gilet@gmail.com**
 
-- 📄 Know about my experiences [https://www.aurelie-gilet.website/cv.html](https://www.aurelie-gilet.website/cv.html)
+- 📄 Know about my experiences [https://www.aurelie-gilet.fr/cv.html](https://www.aurelie-gilet.fr/cv.html)
 
 - ⚡ Fun fact **I'm quite obsessed with purple hues**
 
