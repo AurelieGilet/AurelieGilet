@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurélie Gilet</h1>
 <h3 align="center">Fullstack Web Developper</h3>
 
-- 🔭 I’m currently working on a project of a Developer Quiz made with PHP, POO, MVC.
+- 🔭 I’m currently working on a V2 of my website "Le Charnet de Santé".
 
 - 👨‍💻 All of my projects are available at [https://www.aurelie-gilet.fr/](https://www.aurelie-gilet.fr/)
 
